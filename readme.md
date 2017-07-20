@@ -1,3 +1,4 @@
-#Node Structure
 
-using for my personal purpose. 
+# Node structure
+
+For quick and easy to setup node structure project. 
